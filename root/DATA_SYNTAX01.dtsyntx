@@ -1,0 +1,9 @@
+NOTE: This isn't a Language, this file introduces the partitions!
+
+01=android
+010=root
+0101=datarootconf
+01010=git
+010101=binary_kernel
+
+end file
